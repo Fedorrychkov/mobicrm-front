@@ -1,4 +1,5 @@
-import { authTokenAdd, authTokenRemove} from './auth';
+import { authTokenAdd,
+         authTokenRemove } from './auth';
 
 module.exports = {
     authTokenAdd,
